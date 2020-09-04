@@ -26,9 +26,8 @@ During the week I'm an work like software developer to [ArteMat](https://www.art
 
 | Name | Description | Languages/Tools used | Repository |
 | ---- | ----------- | -------------------- | ---------- |
-|      |             |                      |            |
-|      |             |                      |            |
-|      |             |                      |            |
+| My Awesome App |A simple multiplatform app for code evaluate|electron, vue|[https://github.com/paolaguarasci/my-awesome-app](https://github.com/paolaguarasci/my-awesome-app)|
+| My Awesome RPG |A RPG Game make folow awesome tutorial|Unity, C#|[https://github.com/paolaguarasci/my-awesome-rpg](https://github.com/paolaguarasci/my-awesome-rpg)|
 
 ## 
 
