@@ -1,3 +1,8 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolaguarasci&count_private=true)
+
+
+
 # Hi there ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
 I'm Paola, a Third year Computer Science student at [University of Calabria](https://www.unical.it/portale/), IT.
