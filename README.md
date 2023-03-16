@@ -5,7 +5,7 @@
 
 # Hi there ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
-I'm Paola, a Third year Computer Science student at [University of Calabria](https://www.unical.it/portale/), IT.
+I'm Paola, a second year Computer Science Master Degree student at [University of Calabria](https://www.unical.it/portale/), IT.
 
 ## 
 
