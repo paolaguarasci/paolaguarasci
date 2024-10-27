@@ -8,7 +8,6 @@ PhD student in Computer Science on [Università della Calabria](https://unical.i
 *   🌍  I'm based in Italy
 *   🖥️  See my portfolio at [MyPortfolio](https://paolaguarasci.xyz)
 *   ✉️  You can contact me at [paolaguarasci@gmail.com](mailto:paolaguarasci@gmail.com)
-*   🧠  I'm learning TimeGPT and LangChain
 
 
 <a href="https://www.github.com/paolaguarasci" target="_blank" rel="noreferrer"><img
